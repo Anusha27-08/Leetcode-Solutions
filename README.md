@@ -8,9 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0383-ransom-note) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0383-ransom-note) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
