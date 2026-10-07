@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0289-game-of-life) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0289-game-of-life) |
+## Sliding Window
+|  |
+| ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
