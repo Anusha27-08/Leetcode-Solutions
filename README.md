@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 ## Counting
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 ## Prefix Sum
 |  |
 | ------- |
