@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Counting
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Prefix Sum
 |  |
 | ------- |
