@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0289-game-of-life](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0289-game-of-life) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,4 +52,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0289-game-of-life](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0289-game-of-life) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
