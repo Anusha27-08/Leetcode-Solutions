@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
