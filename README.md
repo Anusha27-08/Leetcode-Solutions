@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
+| [0647-palindromic-substrings](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0796-rotate-string) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
+| [0647-palindromic-substrings](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 ## Greedy
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0647-palindromic-substrings](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 ## Manacher
 |  |
 | ------- |
