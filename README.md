@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/2730-find-the-longest-semi-repetitive-substring) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Queue
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0456-132-pattern) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0214-shortest-palindrome](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
