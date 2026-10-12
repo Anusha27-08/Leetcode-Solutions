@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0456-132-pattern) |
+| [0463-island-perimeter](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0713-subarray-product-less-than-k](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0289-game-of-life) |
+| [0463-island-perimeter](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 ## Simulation
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0202-happy-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
