@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## Z Algorithm
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Stack
 |  |
 | ------- |
@@ -217,4 +219,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
