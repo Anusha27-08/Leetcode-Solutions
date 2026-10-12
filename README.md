@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0290-word-pattern) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0131-palindrome-partitioning](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 ## Manacher
 |  |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0463-island-perimeter) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
