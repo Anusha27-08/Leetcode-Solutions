@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0763-partition-labels](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## String
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
+| [0763-partition-labels](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
@@ -73,11 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0917-reverse-only-letters](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 ## Greedy
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Queue
