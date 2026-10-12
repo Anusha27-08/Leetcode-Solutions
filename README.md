@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0187-repeated-dna-sequences](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0202-happy-number) |
 ## Design
 |  |
 | ------- |
@@ -231,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
