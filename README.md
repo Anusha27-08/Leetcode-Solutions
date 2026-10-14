@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0456-132-pattern](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -243,15 +244,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0463-island-perimeter](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
