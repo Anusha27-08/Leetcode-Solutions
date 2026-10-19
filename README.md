@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0059-spiral-matrix-ii](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0289-game-of-life) |
@@ -269,5 +270,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
