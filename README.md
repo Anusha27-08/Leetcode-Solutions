@@ -247,17 +247,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -272,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Anusha27-08/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
